@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productsMap>
+    <productsMap>
+        <description>imported box of chocolates</description>
+        <price>10.00</price>
+        <quantity>1</quantity>
+        <type>FOOD</type>
+        <imported>true</imported>
+    </productsMap>
+    <productsMap>
+        <description>imported bottle of perfume</description>
+        <price>47.50</price>
+        <quantity>1</quantity>
+        <type>OTHER</type>
+        <imported>true</imported>
+    </productsMap>
+</productsMap>

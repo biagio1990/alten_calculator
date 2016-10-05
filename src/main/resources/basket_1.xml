@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productsMap>
+    <productsMap>
+        <description>book</description>
+        <price>12.49</price>
+        <quantity>1</quantity>
+        <type>BOOK</type>
+        <imported>false</imported>
+    </productsMap>
+    <productsMap>
+        <description>music CD</description>
+        <price>14.99</price>
+        <quantity>1</quantity>
+        <type>OTHER</type>
+        <imported>false</imported>
+    </productsMap>
+    <productsMap>
+        <description>chocolate bar</description>
+        <price>0.85</price>
+        <quantity>1</quantity>
+        <type>FOOD</type>
+        <imported>false</imported>
+    </productsMap>
+</productsMap>

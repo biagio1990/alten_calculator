@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productsMap>
+    <productsMap>
+        <description>imported bottle of perfume</description>
+        <price>27.99</price>
+        <quantity>1</quantity>
+        <type>OTHER</type>
+        <imported>true</imported>
+    </productsMap>
+    <productsMap>
+        <description>bottle of perfume</description>
+        <price>18.99</price>
+        <quantity>1</quantity>
+        <type>OTHER</type>
+        <imported>false</imported>
+    </productsMap>
+    <productsMap>
+        <description>packet of headache pills</description>
+        <price>9.75</price>
+        <quantity>1</quantity>
+        <type>FOOD</type>
+        <imported>false</imported>
+    </productsMap>
+    <productsMap>
+        <description>box of imported chocolates</description>
+        <price>11.25</price>
+        <quantity>1</quantity>
+        <type>FOOD</type>
+        <imported>true</imported>
+    </productsMap>
+</productsMap>
